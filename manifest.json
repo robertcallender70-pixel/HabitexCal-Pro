@@ -1,0 +1,68 @@
+{
+    "name": "Habitex Calcula",
+    "short_name": "Habitex",
+    "description": "Calculadora de materiales de construcción con funcionalidad offline.",
+    "id": "/",
+    "start_url": ".",
+    "scope": ".",
+    "lang": "es",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#f1f5f9",
+    "theme_color": "#0891b2",
+    "categories": [
+        "utilities",
+        "productivity",
+        "business"
+    ],
+    "prefer_related_applications": false,
+    "launch_handler": {
+        "client_mode": "focus-existing"
+    },
+    "icons": [
+        {
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAB9klEQVR4nO3dO3LDMBRA0ex/N3s3bQfqaBBs9+4kThs8DgAAAAAAAAAAAAAAAAAAAAAATESq7tV6v9/PF19N0/S1+i/P8/t1v9/fbx9l6fN8/p+mL+k/P8/L6/X6b9fP8zz8f6/X62+ev+v1+nO/5z/S/51+vl6v/3T9fD8/P8/L6/X6T7dPV4/n+fP0P3+8Xt/f/309/vP+3+v1+n/r5/v5+XleXq/X//r0j35efv/4eD8/P8/L6/X6r9fP+/n5eR7/v+P1+v31853n+fP8/2t/vp/fn+d5vV7/b9fP/vz09+v1+t+un++n9/N6vf4r/P3+fP3+er3+7fr5//n5eR5er9d/uf7+er0+/2r9/P88z4vr9fqf1u/fP6/X6/+/Xr9/er2+/1er1+v1/7d+/n6e58X1ev0P6+f7+fl5Xt6v17/dPh+P1+v1/379/P18PC+v1+sf1s/38/PzPLxer/+v7ePz+fl5Xt6v13+6Ph+v1+v/7fP8/Dwvr9frH57n+fn5eR5er9d/un6+n5+f5+X1erv18zzP/k/n5+f5+X1ev2368c5nufP8/+pP3+/v1+v1+v/+fv+D/88z8vr9fpf1885nueP/z/P8/J6vf6b9fP9/Pw8L6/X679eP/8/z/P8eX7/8/x+vV6v1/93/TzP8+N/P8/z8nq9/pv18/38/Dwvr9frv14/38/Pz/Pyev1X6+d5nnw/Pz/Py+v1+m/XjzP8+J/n+XlefD4+Pj4+PgAAAAAAAAAAAAAAAAAAAAB+zQ84eZg3p4gU6wAAAABJRU5ErkJggg==",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAADMElEQVR4nO3BMQEAAADCoPVPbQ0PoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+Bs2RAAE2b78WAAAAAElFTkSuQmCC",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1080' height='1920' viewBox='0 0 1080 1920'%3E%3Crect width='1080' height='1920' fill='%23f1f5f9'/%3E%3Crect x='40' y='40' width='1000' height='120' rx='20' fill='%23fff'/%3E%3Ctext x='80' y='115' font-family='sans-serif' font-size='50' fill='%23334155'%3EHabitex Calcula%3C/text%3E%3Ctext x='80' y='220' font-family='sans-serif' font-size='45' fill='%23334155'%3EMis Proyectos%3C/text%3E%3Crect x='40' y='280' width='1000' height='150' rx='10' fill='%23fff'/%3E%3Ctext x='80' y='365' font-family='sans-serif' font-size='40' fill='%230891b2'%3EProyecto Casa%3C/text%3E%3Crect x='40' y='450' width='1000' height='150' rx='10' fill='%23fff'/%3E%3Ctext x='80' y='535' font-family='sans-serif' font-size='40' fill='%230891b2'%3ERemodelación Oficina%3C/text%3E%3Crect x='680' y='1700' width='360' height='120' rx='60' fill='%230891b2'/%3E%3Ctext x='730' y='1775' font-family='sans-serif' font-size='40' fill='%23fff'%3ENuevo +%3C/text%3E%3C/svg%3E",
+            "sizes": "1080x1920",
+            "type": "image/svg+xml",
+            "form_factor": "narrow",
+            "label": "Lista de Proyectos"
+        },
+        {
+            "src": "data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1080' height='1920' viewBox='0 0 1080 1920'%3E%3Crect width='1080' height='1920' fill='%23f1f5f9'/%3E%3Crect x='40' y='40' width='1000' height='120' rx='20' fill='%23fff'/%3E%3Ctext x='80' y='115' font-family='sans-serif' font-size='50' fill='%23334155'%3EProyecto Casa%3C/text%3E%3Ctext x='80' y='240' font-family='sans-serif' font-size='40' fill='%23334155'%3EResumen de Materiales%3C/text%3E%3Crect x='40' y='300' width='1000' height='100' rx='10' fill='%23fff'/%3E%3Ctext x='80' y='365' font-family='sans-serif' font-size='35' fill='%23334155'%3ECemento: 50 sacos%3C/text%3E%3Crect x='40' y='420' width='1000' height='100' rx='10' fill='%23fff'/%3E%3Ctext x='80' y='485' font-family='sans-serif' font-size='35' fill='%23334155'%3EArena: 5 m³%3C/text%3E%3Crect x='40' y='540' width='1000' height='100' rx='10' fill='%23fff'/%3E%3Ctext x='80' y='605' font-family='sans-serif' font-size='35' fill='%23334155'%3EAcero: 250 kg%3C/text%3E%3C/svg%3E",
+            "sizes": "1080x1920",
+            "type": "image/svg+xml",
+            "form_factor": "narrow",
+            "label": "Detalle del Proyecto"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Nuevo Proyecto",
+            "short_name": "Nuevo",
+            "description": "Crear un nuevo proyecto de cálculo de materiales.",
+            "url": ".",
+            "icons": [
+                {
+                    "src": "data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 5v14m-7-7h14'/%3E%3C/svg%3E",
+                    "type": "image/svg+xml",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ]
+}

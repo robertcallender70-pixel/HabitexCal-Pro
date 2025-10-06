@@ -1,2 +1,20 @@
-# HabitexCal-Pro
-Una aplicación PWA para el cálculo de materiales de construcción. Funciona completamente offline, permitiendo crear proyectos, añadir actividades y calcular materiales sin necesidad de conexión a internet. Todos los datos se guardan localmente en el dispositivo.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/13QxFUX1_5eUf8j1ifedsgcHA3ecPW8jn
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
