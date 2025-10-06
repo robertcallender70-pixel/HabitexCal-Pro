@@ -1,0 +1,2 @@
+# HabitexCal-Pro
+Una aplicación PWA para el cálculo de materiales de construcción. Funciona completamente offline, permitiendo crear proyectos, añadir actividades y calcular materiales sin necesidad de conexión a internet. Todos los datos se guardan localmente en el dispositivo.
